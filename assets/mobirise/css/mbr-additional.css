@@ -740,6 +740,33 @@ hr {
 .btn-danger-outline:hover::before {
   background-color: #f7ed4a !important;
 }
+.cid-rUJ0xam93K {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-rUJ0xam93K h2 {
+    margin-bottom: 1rem;
+  }
+}
+@media (min-width: 767px) {
+  .cid-rUJ0xam93K .container {
+    position: relative;
+  }
+  .cid-rUJ0xam93K .row {
+    margin: 0;
+  }
+  .cid-rUJ0xam93K h2 {
+    margin: 0;
+  }
+}
+.cid-rUJ0xam93K .mbr-section-subtitle {
+  color: #e9204f;
+}
+.cid-rUJ0xam93K .mbr-text {
+  margin-top: 1.4rem;
+}
 .cid-rUIUHK8L9L .dropdown-item:before {
   font-family: MobiriseIcons !important;
   content: '\e966';
